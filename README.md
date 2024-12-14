@@ -1,4 +1,4 @@
-# Jungle Run Avatar Contract
+# Jungle Gem Contract
 
 This contract is an example for aptos composable nft using aptos digital assets implementation
 
